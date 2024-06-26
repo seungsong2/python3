@@ -11,3 +11,8 @@ c = 8
 
 print(a == b)
 print(a >= b)
+
+#2 사칙연산
+C = 16
+d = 25
+print(a*b/c+d)
